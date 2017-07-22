@@ -1,0 +1,10 @@
+baseURL = "https://art.r4d1n.net/"
+languageCode = "en-us"
+title = "Jared Radin"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+theme = "folio"
+SectionPagesMenu = "main"
+[permalinks]
+	about = "/:filename/"
