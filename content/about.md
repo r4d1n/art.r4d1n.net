@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Jared Radin is a photographer and software developer in Oakland, CA
+Jared Radin is a photographer and software developer in Oakland, CA.
 
 ### Education
 B.A. American Studies, Wesleyan University, Middletown, CT, 2012.
