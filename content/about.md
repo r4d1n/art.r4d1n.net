@@ -4,25 +4,23 @@ title: "About"
 
 Jared Radin is a photographer and software developer in Oakland, CA
 
-### Exhibitions:
+### Education
+B.A. American Studies, Wesleyan University, Middletown, CT, 2012.
 
-* 2014
-  * *The Future-Present* / Artist's Television Access / San Francisco, CA
-  * *Formal Photographs* / Arbor Cafe / Oakland, CA
-* 2013
-  * *American Dreamscapes* / Metropolitan Playhouse / New York, NY
-* 2012
-  * *Living The Dream* / Wesleyan University Zelnick Pavilion / Middletown, CT
+### Exhibitions
+2014 - Artist’s Television Access, “The Future-Present”, San Francisco, CA.
 
-### Publications, Presentations, and Screenings:
+2014 - Arbor Cafe, “Jared Radin and Lindsey Filowitz”, Oakland, CA.
 
-* 2014
-  * *Davedreamer* (Cinematographer) / New Filmmakers NY / New York, NY
-  * *Davedreamer* (Cinematographer) / Indiegrits Film Festival / Columbia, SC
-* 2012
-  * *An Affective Record* / Memories Can't Wait Symposium / International Center for Photography / New York, NY
-  * *Living The Dream: Photographs and Critical Essays* / Senior Thesis / Wesleyan University/ Middletown, CT
+2013 - Metropolitan Playhouse, “American Dreamscapes”, New York, NY.
 
-### Education:
+2012 - Wesleyan University Zelnick Pavilion, “Living The Dream”, Middletown, CT.
 
-* B.A. American Studies / Wesleyan University / Middletown, CT
+### Publications, Presentations, and Screenings
+2014 - Davedreamer (Cinematographer), New Filmmakers NY, New York, NY.
+
+2014 - Davedreamer (Cinematographer), Indiegrits Film Festival, Columbia, SC.
+
+2012 - An Affective Record, Memories Can’t Wait Symposium, International Center for Photography, New York, NY.
+
+2012 - Living The Dream: Photographs and Essays, Wesleyan University, Middletown, CT.
