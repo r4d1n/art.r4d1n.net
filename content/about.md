@@ -4,6 +4,10 @@ title: "About"
 
 Jared Radin is a photographer and software developer in Oakland, CA.
 
+Email: &#114;&#052;&#100;&#049;&#110;&#046;&#115;&#116;&#117;&#100;&#105;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+
+Instagram: [@jaredr4d1n](https://www.instagram.com/jaredr4d1n/)
+
 ### Education
 B.A. American Studies, Wesleyan University, Middletown, CT, 2012.
 
@@ -17,6 +21,8 @@ B.A. American Studies, Wesleyan University, Middletown, CT, 2012.
 2012 - Wesleyan University Zelnick Pavilion, “Living The Dream”, Middletown, CT.
 
 ### Publications, Presentations, and Screenings
+2019 - An American Jew In Berlin, Self Published, Berkeley, CA
+
 2014 - Davedreamer (Cinematographer), New Filmmakers NY, New York, NY.
 
 2014 - Davedreamer (Cinematographer), Indiegrits Film Festival, Columbia, SC.
