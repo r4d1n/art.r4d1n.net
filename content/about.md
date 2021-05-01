@@ -4,7 +4,7 @@ title: "About"
 
 Jared Radin is a photographer and software developer in Oakland, CA.
 
-Email: &#106;&#97;&#114;&#101;&#100;&#46;&#114;&#97;&#100;&#105;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+Email: &#106;&#97;&#114;&#101;&#100;&#64;&#114;&#52;&#100;&#49;&#110;&#46;&#110;&#101;&#116;
 
 Instagram: [@jaredr4d1n](https://www.instagram.com/jaredr4d1n/)
 
